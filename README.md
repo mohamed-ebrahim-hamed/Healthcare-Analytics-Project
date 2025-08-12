@@ -7,14 +7,6 @@
 
 ## 👥 Team Members
 | Name                     | Role                          | GitHub Profile |
-|--------------------------|------------------------------|----------------|
-| Mohamed Ebrahim Hamed    | Team Lead / Data Engineer     | [Profile](https://github.com/mohamed-ebrahim-hamed) |
-| [Member 2 Name]          | Data Analyst                  | [Profile](https://github.com/USERNAME2) |
-| [Member 3 Name]          | BI Developer / Visualization  | [Profile](https://github.com/USERNAME3) |
-
-> ✏️ عدل أسماء البنتين وأسماء مستخدمي GitHub قبل رفع الملف.
-
----
 
 ## 📂 Project Structure
 ```
