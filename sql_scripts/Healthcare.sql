@@ -118,7 +118,7 @@ SELECT
 FROM Patients
 GROUP BY Gender;
 --------------------------------------------------------------------------------------------------------------------------
---Q12) Patient Distribution by Age Group ?
+--Q13) Patient Distribution by Age Group ?
 SELECT
   CASE
     WHEN Age < 20 THEN '<20'
